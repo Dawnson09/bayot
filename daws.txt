@@ -1,0 +1,34 @@
+<html>
+<header>MY RESUME</header>
+</head>
+<body background="Daws.jpg">
+<TABLE BORDER="1">
+<img SRC="daw.jpg" STYLE="WIDTH:150PX;HEIGHT:100PX;">
+
+<!-- Some small ideas to be put down on this list are putting personal interests or hobbies to showcase coding abilities -->
+
+<!-- Copy and paste the text, the HTML is just for practice but I think Craigslist allows for some HTML -->
+<h1 class="nick" align="center">DAWNSON AMER M SINSUAT</h1>
+<h3><strong>Objective:</strong></h3> I WANT TO FINISH MY EDUCATION SO THAT I CAN HELP MY FAMILY AND TO HAVE MY OWN FAMILY.
+
+<br />
+
+<strong><h3> Experience:</h3></strong>I EXPERIENCE A LOT THINGS PLAYING DART AND OTHER SPORTS AND I LOVE TO EAT GAIN MEAL.
+
+<strong><h3>SELF INFORMATION:</h3></strong>
+<!-- about my page post -->
+<p>BIRTHDATE SEMTEMBER 28 1999</p>
+<p>AGE 17</p>
+<P>WEIGHT 89 KILOS HEIGHT 5"10</P>
+
+<br />
+<hr />
+
+<p> </p>
+<p>
+<br />
+<strong>Cell:</strong>09355212114
+<br />
+<strong>Email:</strong>UKING@GMAIL.COM
+<b
+
